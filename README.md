@@ -56,9 +56,9 @@ zombies to survive.
 - Shelter : shelter_alper_son2.nlogo
 
 # Scenarios
-Scenario Parameters            |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/scenario_parameters.png)  |  ![](https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/asdasdasd.png)
+Content Image             |  Style Image                       
+:-------------------------:|:-------------------------
+<img src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/scenario_parameters.png" width="400" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/asdasdasd.png" width="400" height="200">  
 
 # Report
 
