@@ -11,7 +11,6 @@ This project is a final project of [IE 48F](http://www.ie.boun.edu.tr/?q=tr/ders
 # Problem Description
 
 Humans are against zombies. There are 2 kinds of people: Food-collectors and Hunters. These 2 type of people have to collaborate against
-
 zombies to survive.
 
 - Blue objects: Zombies
