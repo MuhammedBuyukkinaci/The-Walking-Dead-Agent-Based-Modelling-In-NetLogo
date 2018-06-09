@@ -1,12 +1,30 @@
 # The-Walking-Dead-Agent-Based-Modelling-In-NetLogo
 
-An agent based modelling project to model The Walking Dead in NetLogo.
+An Agent based modelling project to model The Walking Dead in NetLogo.
 
 This project is a final project of [IE 48F](http://www.ie.boun.edu.tr/?q=tr/dersler/ie-48f-agent-based-modeling-and-simulation) in [Industrial Engineering at Bogazici University](http://www.ie.boun.edu.tr/) for Spring 2017 period.
 
 # NetLogo Version
 
 - [NetLogo 5.3.1](https://ccl.northwestern.edu/netlogo/5.3.1/)
+
+# Running
+
+- Download the rar file.
+
+- Double click .nlogo extended file and open.
+
+- Click Setup button
+
+<p align="center">
+  <img width="300" height="300" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/setup.png">
+</p>
+
+- Click go button
+
+<p align="center">
+  <img width="300" height="300" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/going.png">
+</p>
 
 # Problem Description
 
