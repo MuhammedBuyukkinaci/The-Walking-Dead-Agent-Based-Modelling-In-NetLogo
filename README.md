@@ -45,6 +45,8 @@ zombies to survive.
 
 - 810 runs for each policy
 
+- 6-7 hours to train on CPU
+
 # 4 different Policies
 
 - Reference Case : main.nlogo
