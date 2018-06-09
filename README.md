@@ -18,6 +18,10 @@ zombies to survive.
 
 - White objects: Hunters
 
+- Red places: Existing Foods
+
+- Yellow places: Empty Food Places
+
 <p align="center">
   <img width="400" height="400" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/ezgif-2-7e86ef32c2.gif">
 </p>
