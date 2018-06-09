@@ -27,23 +27,18 @@ zombies to survive.
   <img width="400" height="400" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/ezgif-2-7e86ef32c2.gif">
 </p>
 
-# Policies
+# Experimentation Plan
 
-- Reference Case
+- 4 policies
 
-- Group Movement of Hunters
+- 3 different levels for 3 key parameters
 
-- Group Movement of Zombies
+- 27 different scenarios
 
-- Shelter
+- 30 replications
 
-# Key Parameters
+- 810 runs for each policy
 
-- Percentage of Hunters
-
-- Share-Percentage
-
-- Critical -Value
 
 
 
