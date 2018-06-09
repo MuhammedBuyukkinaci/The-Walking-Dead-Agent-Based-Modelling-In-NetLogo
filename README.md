@@ -27,6 +27,12 @@ zombies to survive.
   <img width="400" height="400" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/ezgif-2-7e86ef32c2.gif">
 </p>
 
+# System Diagram
+
+<p align="center">
+  <img width="700" height="400" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/system-diagram.png">
+</p>
+
 # Experimentation Plan
 
 - 4 policies
@@ -38,6 +44,16 @@ zombies to survive.
 - 30 replications
 
 - 810 runs for each policy
+
+# 4 different Policies
+
+- Reference Case : main.nlogo
+
+- Group Movement of Hunters: hunter group.nlogo
+
+- Group Movement of Zombies : zombie group.nlogo
+
+- Shelter : shelter_alper_son2.nlogo
 
 # Report
 
