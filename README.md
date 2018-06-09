@@ -39,13 +39,13 @@ zombies to survive.
 
 - 3 different levels for 3 key parameters
 
-- 27 different scenarios
+- 27(3x3x3) different scenarios for each policy
 
 - 30 replications
 
-- 810 runs for each policy
+- 810(30x27) runs for each policy
 
-- 6-7 hours to train on CPU
+- 6-7 hours to train all
 
 # 4 different Policies
 
