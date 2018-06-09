@@ -41,10 +41,10 @@ zombies to survive.
 
 # Report
 
-You should look at _48f Rapor son_pdf.pdf_
+You should look at **48f Rapor son_pdf.pdf**.
 
 # Presentation
 
-You should look at **_IE 48F GROUP 5.pptx_**
+You should look at **IE 48F GROUP 5.pptx**.
 
 
