@@ -17,13 +17,13 @@ This project is a final project of [IE 48F](http://www.ie.boun.edu.tr/?q=tr/ders
 - Click Setup button
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/setup.png">
+  <img width="500" height="300" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/setup.png">
 </p>
 
 - Click go button
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/going.png">
+  <img width="500" height="300" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/going.png">
 </p>
 
 # Problem Description
