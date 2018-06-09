@@ -6,7 +6,7 @@ This project is a final project of [IE 48F](http://www.ie.boun.edu.tr/?q=tr/ders
 
 # NetLogo Version
 
-- [NetLogo](https://ccl.northwestern.edu/netlogo/5.3.1/) 5.3.1
+- [NetLogo 5.3.1](https://ccl.northwestern.edu/netlogo/5.3.1/)
 
 # Problem Description
 
