@@ -6,3 +6,15 @@ An Agent based modelling project in NetLogo. This project is a final project of 
 
 - NetLogo 5.3.1
 
+# Problem Description
+
+Humans are against zombies. There are 2 kinds of people: Food-collectors and Hunters. These 2 type of people have to collaborate against
+
+zombies to survive.
+
+- Blue objects: Zombies
+
+- Green objects: Food-Collectors
+
+- White objects: Hunters
+
