@@ -27,3 +27,23 @@ zombies to survive.
   <img width="400" height="400" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/ezgif-2-7e86ef32c2.gif">
 </p>
 
+# Policies
+
+- Reference Case
+
+- Group Movement of Hunters
+
+- Group Movement of Zombies
+
+- Shelter
+
+# Key Parameters
+
+- Percentage of Hunters
+
+- Share-Percentage
+
+- Critical -Value
+
+
+
