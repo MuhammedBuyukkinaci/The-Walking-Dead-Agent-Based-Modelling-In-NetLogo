@@ -18,3 +18,4 @@ zombies to survive.
 
 - White objects: Hunters
 
+![alt text](https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/ezgif-2-7e86ef32c2.gif) 
