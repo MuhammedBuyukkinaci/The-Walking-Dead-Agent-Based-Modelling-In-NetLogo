@@ -24,13 +24,13 @@ zombies to survive.
 - Yellow places: Empty Food Places
 
 <p align="center">
-  <img width="400" height="400" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/ezgif-2-7e86ef32c2.gif">
+  <img width="300" height="300" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/ezgif-2-7e86ef32c2.gif">
 </p>
 
 # System Diagram
 
 <p align="center">
-  <img width="700" height="400" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/system-diagram.png">
+  <img width="500" height="300" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/system-diagram.png">
 </p>
 
 # Experimentation Plan
