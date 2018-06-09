@@ -73,4 +73,6 @@ You should look at **48f Rapor son_pdf.pdf**.
 
 You should look at **IE 48F GROUP 5.pptx**.
 
+# Contributors
 
+Credits go to [Alperen İnal](https://www.linkedin.com/in/alperenninal/). We made this project together( 50% - 50% ).
