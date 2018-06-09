@@ -55,6 +55,14 @@ zombies to survive.
 
 - Shelter : shelter_alper_son2.nlogo
 
+# Scenarios
+<p align="left">
+  <img width="400" height="400" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/system-diagram.png">
+</p> |
+<p align="center">
+  <img width="400" height="400" src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/system-diagram.png">
+</p>
+
 # Report
 
 You should look at **48f Rapor son_pdf.pdf**.
