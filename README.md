@@ -56,6 +56,9 @@ zombies to survive.
 - Shelter : shelter_alper_son2.nlogo
 
 # Scenarios
+
+3 Key parameters and 3 levels for each one.
+
 Scenario Parameters           |  Parameters on NetLogo                       
 :-------------------------:|:-------------------------
 <img src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/scenario_parameters.png" width="400" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/The-Walking-Dead-Agent-Based-Modelling-In-NetLogo/blob/master/pictures/asdasdasd.png" width="400" height="200">  
