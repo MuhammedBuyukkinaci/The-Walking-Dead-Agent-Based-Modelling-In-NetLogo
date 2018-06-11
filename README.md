@@ -85,11 +85,11 @@ Scenario Parameters           |  Parameters on NetLogo
 
 # Report
 
-You should look at **48f Rapor son_pdf.pdf**.
+You should look at **IE_48F_Final_Report.pdf**.
 
 # Presentation
 
-You should look at **IE 48F GROUP 5.pptx**.
+You should look at **IE_48F_GROUP_5.pptx**.
 
 # Contributors
 
