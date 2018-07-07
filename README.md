@@ -4,8 +4,8 @@ An Agent based modelling project to model The Walking Dead in NetLogo.
 
 This project is a final project of [IE 48F](http://www.ie.boun.edu.tr/?q=tr/dersler/ie-48f-agent-based-modeling-and-simulation) in [Industrial Engineering at Bogazici University](http://www.ie.boun.edu.tr/) for Spring 2017 period.
 
-# NetLogo Version
-
+# Prerequisite and Installation
+- [Java](https://www.java.com/en/download/)
 - [NetLogo 5.3.1](https://ccl.northwestern.edu/netlogo/5.3.1/)
 
 # Running
